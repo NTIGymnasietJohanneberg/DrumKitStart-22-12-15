@@ -12,3 +12,9 @@ För att hitta koden för det färdiga projektet så byter ni från main(branche
 
 <img src="findMyBranches.png" width="500px" />
 
+<figure>
+    <img src="findMyBranches.png"
+         alt="guide pic">
+    <figcaption>Här hittar vi våra olika brancher.</figcaption>
+</figure>
+
