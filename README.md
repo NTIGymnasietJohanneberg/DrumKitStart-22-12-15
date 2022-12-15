@@ -9,3 +9,5 @@ Vill ni göra kul emojis på era sidor så finns [Emojipedialänken](https://emo
 
 
 För att hitta koden för det färdiga projektet så byter ni från main(branchen vi är i nu) till branchen finalCode
+
+![Här hittar vi våra olika branches!](findMyBranches.png "Här hittar vi våra olika branches")
