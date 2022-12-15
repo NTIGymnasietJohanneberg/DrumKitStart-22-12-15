@@ -108,19 +108,6 @@ function buttonAnimation(currentKey) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /**
  * Higher order function = adEventListener('arg', function(e) {
  * Gör något...
@@ -141,7 +128,7 @@ function sub(num1, num2) {
 }
 
 //Multiply function
-function mltiply(num1, num2) {
+function multiply(num1, num2) {
 
     return num1 * num2;
 }
@@ -157,4 +144,4 @@ function calculator(num1, num2, operator) {
 }
 
 console.log(calculator(4, 5, add));
-console.log(calculator(4, 5, mltiply));
+console.log(calculator(4, 5, multiply));
